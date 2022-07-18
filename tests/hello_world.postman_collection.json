@@ -37,7 +37,7 @@
 							"});",
 							"",
 							"pm.test(\"Ensure valid message\", function () {",
-							"    pm.expect(jsonData.data.message).to.eql('Hello, World!');",
+							"    pm.expect(jsonData.data.message).to.eql('Hello, everyone');",
 							"})"
 						]
 					}
